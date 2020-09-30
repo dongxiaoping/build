@@ -921,7 +921,7 @@ window._CCSettings = {
             "0a88aced0",
             "cfc55",
             "0b173ec05",
-            "c01fc",
+            "2c606",
             "0d669730c",
             "6d9e9",
             "0e4bc3b03",
